@@ -1,4 +1,4 @@
-package com.api.helprback.resources;
+package com.api.helprback.repositories.resources;
 
 import com.api.helprback.domain.Tecnico;
 import com.api.helprback.domain.dtos.TecnicoDTO;

@@ -1,4 +1,4 @@
-package com.api.helprback.resources.exceptions;
+package com.api.helprback.repositories.resources.exceptions;
 
 import java.io.Serializable;
 
